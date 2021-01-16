@@ -1,6 +1,6 @@
 # cookepedia_recipe_app
 
-A new Flutter project.
+Food ought to be enjoyable. Cookepedia guides you to prepare your next meal
 
 ## Getting Started
 
